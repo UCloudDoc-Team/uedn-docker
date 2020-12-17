@@ -1,7 +1,7 @@
 # 概览
 
 * 产品简介
-  * [产品简介。](/uedn-docker/jianjie/intro)
+  * [产品简介](/uedn-docker/jianjie/intro)
   * [产品优势](/uedn-docker/jianjie/youshi)
 * 使用指南
   * [开通UEDN服务](/uedn-docker/guide/open)
