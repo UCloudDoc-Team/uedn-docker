@@ -12,7 +12,7 @@
   * [带宽资源计费](/uedn-docker/billing_instructions/billing_net)
   * [欠费说明](/uedn-docker/billing_instructions/billing_fee)
 * 使用指南
-  * [快速上手](/uedn-docker/guide/intro)
+  * [快速上手](/uedn-docker/guide/rumen)
   * [开通UEC服务](/uedn-docker/guide/open)
   * [子网管理](/uedn-docker/guide/subnet)
   * [创建容器组](/uedn-docker/guide/creatr)
