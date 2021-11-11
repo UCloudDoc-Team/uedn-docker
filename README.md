@@ -9,5 +9,5 @@
   * [容器组管理](/uedn-docker/guide/guanli)
   * [登录容器](/uedn-docker/guide/denglu)
 * [产品价格](/uedn-docker/price)
-* [FAQ](/uedn-docker/FAQ)   
+* [FAQ](/uedn-docker/question)   
 
