@@ -18,15 +18,10 @@
   * [创建容器组](/uedn-docker/guide/creatr)
   * [管理容器组](/uedn-docker/guide/guanli)
   * [登录容器](/uedn-docker/guide/denglu)
-<<<<<<< HEAD
 * API参考
   * [API文档](/uedn-docker/jianjie/intro)
 * 常见问题
   * [FAQ](/uedn-docker/question)   
 * 相关协议
   * [服务等级协议](/uedn-docker/protocol/protocol)
-=======
-* [产品价格](/uedn-docker/price)
-* [FAQ](/uedn-docker/FAQ)   
 
->>>>>>> 055cae286af437b0a1a7bbf0c9431e60fceeead8
