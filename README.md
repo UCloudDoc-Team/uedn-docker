@@ -19,9 +19,9 @@
   * [管理容器组](/uedn-docker/guide/guanli)
   * [登录容器](/uedn-docker/guide/denglu)
 * API参考
-  * [API文档](/uedn-docker/jianjie/intro)
+  * [API文档](/uedn-docker/api/api)
 * 常见问题
-  * [FAQ](/uedn-docker/question)   
+  * [FAQ](/uedn-docker/FAQ/question)   
 * 相关协议
   * [服务等级协议](/uedn-docker/protocol/protocol)
 
